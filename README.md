@@ -20,11 +20,18 @@
 # 3. 과제 제출
 #### Issues에 과제 올려드릴 예정입니다.
 > [과제 제출 페이지](https://github.com/Likelion-algorithm-study/Assignment/issues)
-#### 제출할 때는 문제 접근 방법과 사진 찍어서 올리면 됩니다.
+#### 제출할 때는 문제 접근 방법과 사진 찍어서 올리면 됩니다. 
+**초반에는 빅O 표기법 시간 복잡도 작성하게 할듯 합니다**
 <img src=https://github.com/Likelion-algorithm-study/Assignment/assets/127489230/dbe84e5e-168c-4f83-a872-843aa8b1514c/>
-+ 우선순위 큐를 사용한 10만개 데이터 입력/제거 (log_2 n)
+우선순위 큐를 사용한 10만개 데이터 입력/제거
 
 <br/>
  
-# 4. 공부 순서
-> [공부 순서 링크](https://www.notion.so/b58d3845c82541b58a219fad815e105a)
+# 4. 공부 순서 ( 변경 가능 )
+<br/>
+<img src=https://github.com/Likelion-algorithm-study/Assignment/assets/127489230/1795325b-2baf-4564-a85b-1cbb451e76bd/>
+
+<br/>
+
+# 5. 과제를 하지 않는 경우
+추후 상의 예정
