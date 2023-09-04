@@ -15,6 +15,7 @@
 #### 유튜브, 인터넷 자료 사용할 예정
 > [동빈나 유튜브](https://www.youtube.com/@dongbinna)   
 > [안경잡이개발자 블로그](https://m.blog.naver.com/PostList.naver?blogId=ndb796)
+> [바킹독 블로그](https://blog.encrypted.gg/category/%EA%B0%95%EC%A2%8C/%EC%8B%A4%EC%A0%84%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 <br/>
 
 # 3. 과제 제출
