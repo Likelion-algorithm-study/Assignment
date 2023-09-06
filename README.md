@@ -21,21 +21,31 @@
 # 3. 과제 제출
 #### Issues에 과제 올려드릴 예정입니다.
 > [과제 제출 페이지](https://github.com/Likelion-algorithm-study/Assignment/issues)
-#### 제출할 때는 문제 접근 방법과 사진 찍어서 올리면 됩니다. 
-**초반에는 빅O 표기법 시간 복잡도 작성하게 할듯 합니다**
-<img src=https://github.com/Likelion-algorithm-study/Assignment/assets/127489230/dbe84e5e-168c-4f83-a872-843aa8b1514c/>
-우선순위 큐를 사용한 10만개 데이터 입력/제거
+#### 제출할 때는 각자 branch 만들어서 push 해주시면 됩니다.
+
+<br/>
+
+### 코드에 시간 복잡도, 풀이 방법 써주시면 됩니다.
+![image](https://github.com/Likelion-algorithm-study/Assignment/assets/127489230/08bbef1b-b575-4c23-b02a-296270fbe035)
 
 <br/>
  
 # 4. 공부 순서 ( 변경 가능 )
 <br/>
-<img src=https://github.com/Likelion-algorithm-study/Assignment/assets/127489230/1795325b-2baf-4564-a85b-1cbb451e76bd/>
+
+![image](https://github.com/Likelion-algorithm-study/Assignment/assets/127489230/1795325b-2baf-4564-a85b-1cbb451e76bd)
 
 <br/>
 
 # 5. 과제를 하지 않는 경우
-추후 상의 예정
++ 과제 5번 미제출 시 강퇴하는 것으로 하겠습니다.
++ 단, 다음과 같은 경우에는 정상 참작 됩니다.   
+  + 증빙 서류 제출 필수 ( 서류, 사진 등 )
+    + 병결, 공모전 마감
+  + 증빙 서류 제출 불필요
+    + 가족사
+    + 회사일 ( 배포 등 바쁜 경우 )
+    + 시험 직전 주간 / 시험 주간
 
 <br/>
 
