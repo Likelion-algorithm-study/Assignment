@@ -4,6 +4,8 @@
 # top에 있는 값을 하나씩 pop 하며 판단 -> top 값보다 작거나 같으면 안 보임 / 크면 보임
 # pop()한 값이 기존 top값보다 크면 top값 변경
 
+# 시간복잡도 : O(N)
+ 
 from sys import stdin
 input = stdin.readline
 
