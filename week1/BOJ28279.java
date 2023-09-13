@@ -1,5 +1,24 @@
+/* 문제 풀이 방법
+ * 
+ * deque 사용 이유 : 
+ *  앞, 뒤로 삽입, 삭제, 조회가 일어나므로 LinkedList를 활용한 Deque 사용 ( O(1) )
+ * 
+ * 사용한 변수 : 
+ *  order : 명령 종류를 나타냄
+ * 
+ * order 값에 따라서 적절하게 deque에서 삽입, 삭제, 조회 해주면 됨.
+ * 주의할 점 : order가 비어있는 경우에 대한 예외가 있기 때문에 이 부분만 조심해주면 됨.
+*/
+
+/* 시간 복잡도 
+ * isEmpty : O(1)
+ * poll : O(1)
+ * add : O(1)
+ * peek : O(1)
+ * --> O(N)
+*/
+
 import java.io.BufferedReader;
-import java.io.BufferedWriter;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Deque;
