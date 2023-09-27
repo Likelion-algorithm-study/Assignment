@@ -1,4 +1,7 @@
 # 반전 요세푸스 순열 
+# 문제 해결 방법
+# 시간복잡도
+
 from sys import stdin  # 빠른 입출력
 from collections import deque # 덱 모듈
 
